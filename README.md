@@ -12,5 +12,8 @@ You can also use "rm -P" from OSX since srm is not longer available:
                  then 0xff again, before they are deleted.
 ```
                  
-# Why reinventing the wheel?
+# Why?
 Well I didnt know the wheel existed, wrote my mini srm before deciding to read the man rm... But I am still trying to learn Golang so still fun to do.
+
+# Feedbacks
+Yes, I am really really learning Golang coming from Python so please PR/help/feedback really welcome on making better code, more readable, more efficient and secure if need be :)
