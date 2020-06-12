@@ -1,4 +1,4 @@
-# Home-made secure rm for OSX
+# Secure rm for OSX
 A secure delete for OSX (and other platforms if you want to cross-compile, courtesy of using Golang).
 Reading on secure delete techniques and decided to set on NSA 130-2, i.e. 3 passes: random, random, verify last random.
 
